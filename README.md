@@ -8,4 +8,5 @@ portfolio
 [กิจกรรมพัฒนาตนเองและภาวะการเป็นผู้นำ](ACTIVITIES3.md)  
 [กิจกรรมพัฒนาตนเองและภาวะการเป็นผู้นำ](ACTIVITIES4.md)  
 [กิจกรรมด้านวิชาการ](ACTIVITIES5.md)  
-[กิจกรรมอื่นๆ](ACTIVITIES56.md) 
+[กิจกรรมอื่นๆ](ACTIVITIES56.md)  
+[เกียรติบัตร](CERTIFICATES.md)
