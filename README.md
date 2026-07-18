@@ -3,4 +3,7 @@
 [PROFILE](PROFILE.md)  
 [TRANSCRIPT](TRANSCRIPT.md)  
 [STATEMENT OF PURPOSE](sop.md)  
-[ACTIVITIES](ACTIVITIES1.md)
+[กิจกรรมที่เกี่ยวข้องกับวิชาชีพ](ACTIVITIES1.md)  
+[กิจกรรมที่เกี่ยวข้องกับวิชาชีพ](ACTIVITIES2.md)  
+
+
