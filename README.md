@@ -5,5 +5,6 @@
 [STATEMENT OF PURPOSE](sop.md)  
 [กิจกรรมที่เกี่ยวข้องกับวิชาชีพ](ACTIVITIES1.md)  
 [กิจกรรมที่เกี่ยวข้องกับวิชาชีพ](ACTIVITIES2.md)  
+[กิจกรรมพัฒนาตนเองและภาวะการเป็นผู้นำ](ACTIVITIES3.md)
 
 
