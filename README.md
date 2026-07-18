@@ -1,2 +1,3 @@
 # portfolio  
-[ปก](ปก.md)
+[ปก](ปก.md)  
+[PROFILE](PROFILE.md)
