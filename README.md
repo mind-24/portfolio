@@ -1,4 +1,4 @@
-# portfolio  
+portfolio  
 [ปก](ปก.md)  
 [PROFILE](PROFILE.md)  
 [TRANSCRIPT](TRANSCRIPT.md)  
@@ -6,4 +6,5 @@
 [กิจกรรมที่เกี่ยวข้องกับวิชาชีพ](ACTIVITIES1.md)  
 [กิจกรรมที่เกี่ยวข้องกับวิชาชีพ](ACTIVITIES2.md)  
 [กิจกรรมพัฒนาตนเองและภาวะการเป็นผู้นำ](ACTIVITIES3.md)  
-[กิจกรรมพัฒนาตนเองและภาวะการเป็นผู้นำ](ACTIVITIES4.md)
+[กิจกรรมพัฒนาตนเองและภาวะการเป็นผู้นำ](ACTIVITIES4.md)  
+[กิจกรรมด้านวิชาการ](ACTIVITIES5.md) 
